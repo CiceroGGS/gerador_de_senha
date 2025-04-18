@@ -17,7 +17,7 @@ Projeto simples e funcional de um **Gerador de Senhas** feito com **HTML**, **CS
 
 - HTML5
 - CSS3
-- JavaScript Vanilla
+- JavaScript
 
 ## 🛠 Como usar
 
